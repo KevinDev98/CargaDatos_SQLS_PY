@@ -6,7 +6,7 @@ Created on Mon Dec 19 13:04:35 2022
 import pyodbc
 import pandas as pd
 
-df=pd.read_csv('C:\\Users\Kevin\Documents\KEVIN\PROYECTOS DEV\CARGA DATOS\DATA FILES\CARGA_CSV\CIUDAD_CSV.csv') #Lee el archivo
+df=pd.read_csv('C:\\...\CARGA_CSV\CIUDAD_CSV.csv') #Lee el archivo
 srvr ='DESKTOP-EB8Q5MG'
 db='VENTAS_CIUDAD'
 username='sa'
